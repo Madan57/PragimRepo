@@ -3,3 +3,5 @@ change made by developer2
 add something by developer1
 
 modified in master/main branch
+
+modified in master brach to test git merge from git hub
